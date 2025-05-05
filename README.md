@@ -4,6 +4,9 @@
 - 🌱 I’m currently attending a Data Science Bootcamp.
 - 🕊️ I can work with HTML, CSS, JavaScript, C++, Python and Visual Basic.
 - 📫 You can reach me at => rutbanisar5@gmail.com    or    www.linkedin.com/in/rutbanisar05
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutba-nisar-05)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 rutba-nisar-05/rutba-nisar-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
