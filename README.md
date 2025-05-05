@@ -4,6 +4,8 @@
 - 🌱 I’m currently attending a Data Science Bootcamp.
 - 🕊️ I can work with HTML, CSS, JavaScript, C++, Python and Visual Basic.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutba-nisar-05&show_icons=true&theme=radical)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_palintech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rutbanisar05/) 
